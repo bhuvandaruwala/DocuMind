@@ -1,0 +1,36 @@
+NIMBUS RETAIL PVT. LTD. - IT HELPDESK FAQ (Version 3.2, updated August 2026)
+
+Q: How do I contact the IT Helpdesk?
+A: Call extension 4357 (H-E-L-P) from any office phone, email helpdesk@nimbusretail.example, or raise a
+ticket in the ServiceDesk portal. The Helpdesk is staffed from 8:00 AM to 8:00 PM IST, Monday to Saturday.
+Priority 1 incidents (store billing systems down) are handled 24x7 by the on-call engineer.
+
+Q: How do I connect to the VPN?
+A: Nimbus uses GlobalProtect VPN. Open the GlobalProtect app and enter the portal address
+vpn.nimbusretail.example. Sign in with your Google Workspace account and approve the MFA prompt.
+VPN is required to reach the finance ERP and the store inventory dashboards from outside the office.
+
+Q: What is the office Wi-Fi network?
+A: Employees connect to the "Nimbus-Corp" network using certificate-based authentication (EAP-TLS);
+the certificate is installed automatically on managed laptops. Visitors use "Nimbus-Guest", which needs
+a daily access code from the reception desk and is isolated from internal systems.
+
+Q: I forgot my password. How do I reset it?
+A: Use the self-service portal at password.nimbusretail.example. You will need your registered mobile number
+for the one-time code. If you are locked out after 5 failed attempts, wait 15 minutes or call the Helpdesk.
+
+Q: How often are laptops replaced?
+A: Laptops are refreshed on a 4-year cycle. Engineering and Design roles may request an early refresh after
+3 years with manager approval. Old devices are wiped with a certified erase tool before they are recycled.
+
+Q: Can I install my own software?
+A: Only software from the Self Service catalogue may be installed. Anything else needs an exception request
+reviewed by IT Security, which normally takes 3 business days.
+
+Q: What should I do if I lose my laptop or phone?
+A: Report it to the Helpdesk and to security@nimbusretail.example within 1 hour. IT will lock and remotely
+wipe the device. Laptops are encrypted (FileVault on Mac, BitLocker on Windows), so data stays protected.
+
+Q: How do I get access to a shared drive or application?
+A: Raise an Access Request in the ServiceDesk portal. Your manager approves it, then the application owner.
+Standard access requests are completed within 2 business days.

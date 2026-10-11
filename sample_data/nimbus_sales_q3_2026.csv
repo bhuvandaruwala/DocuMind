@@ -1,0 +1,61 @@
+region,month,category,units_sold,revenue_inr_lakh,returns_pct
+North,July,Electronics,1490,267.79,2.9
+North,July,Home & Kitchen,4912,119.56,4.9
+North,July,Apparel,8411,110.73,3.6
+North,July,Grocery,23554,97.26,0.6
+North,July,Beauty,5522,42.29,4.7
+North,August,Electronics,1550,281.94,4.4
+North,August,Home & Kitchen,5853,136.31,5.5
+North,August,Apparel,8595,114.92,2.3
+North,August,Grocery,30080,125.1,0.3
+North,August,Beauty,5944,47.33,4.5
+North,September,Electronics,1723,323.15,4.2
+North,September,Home & Kitchen,6375,151.88,4.3
+North,September,Apparel,9311,126.59,5.8
+North,September,Grocery,29570,125.72,0.2
+North,September,Beauty,6460,49.75,1.9
+South,July,Electronics,1262,227.88,2.9
+South,July,Home & Kitchen,4913,116.96,3.4
+South,July,Apparel,6759,89.97,6.2
+South,July,Grocery,24628,104.11,0.3
+South,July,Beauty,5869,44.85,3.4
+South,August,Electronics,1552,289.53,4.3
+South,August,Home & Kitchen,5258,128.79,5.4
+South,August,Apparel,7194,94.39,3.1
+South,August,Grocery,24177,99.78,1.0
+South,August,Beauty,6396,49.33,4.8
+South,September,Electronics,1462,277.2,3.8
+South,September,Home & Kitchen,5106,120.68,4.3
+South,September,Apparel,7655,103.87,6.0
+South,September,Grocery,26251,108.4,1.0
+South,September,Beauty,6297,47.91,1.7
+East,July,Electronics,949,176.91,5.5
+East,July,Home & Kitchen,3634,84.93,3.4
+East,July,Apparel,6087,82.32,6.4
+East,July,Grocery,19791,80.69,0.8
+East,July,Beauty,4488,35.08,2.8
+East,August,Electronics,1122,202.73,3.7
+East,August,Home & Kitchen,3877,95.58,5.9
+East,August,Apparel,5592,75.49,2.4
+East,August,Grocery,21182,90.94,0.4
+East,August,Beauty,4718,37.04,2.3
+East,September,Electronics,1213,224.94,5.4
+East,September,Home & Kitchen,4160,96.85,3.1
+East,September,Apparel,5606,77.63,5.9
+East,September,Grocery,22046,91.52,0.2
+East,September,Beauty,5217,41.78,1.9
+West,July,Electronics,1706,307.45,5.3
+West,July,Home & Kitchen,6462,151.63,3.9
+West,July,Apparel,9295,123.71,5.9
+West,July,Grocery,30208,124.68,0.6
+West,July,Beauty,7529,57.67,3.1
+West,August,Electronics,1993,372.02,3.7
+West,August,Home & Kitchen,6527,153.09,2.6
+West,August,Apparel,9440,128.12,2.7
+West,August,Grocery,30701,125.63,0.7
+West,August,Beauty,7216,57.65,5.8
+West,September,Electronics,1751,318.84,4.8
+West,September,Home & Kitchen,6479,152.07,6.2
+West,September,Apparel,10454,140.9,5.4
+West,September,Grocery,36474,150.35,0.3
+West,September,Beauty,7950,61.73,3.8
